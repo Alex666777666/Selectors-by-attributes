@@ -8,7 +8,7 @@ a[href^='broken'] {
   border: 2px solid red;
 }
 a[href$='.com'] {
-  margin-left: 50px;
+  margin-left: 40px;
 }
 a[lang*='en'] {
   font-size: 10px;
